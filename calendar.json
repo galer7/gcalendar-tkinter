@@ -1,0 +1,88 @@
+{
+  "monday-1": [],
+  "tuesday-1": [
+    {
+      "title": "MC-TA (c)",
+      "start": 11,
+      "end": 13
+    },
+    {
+      "title": "MC (c)",
+      "start": 13,
+      "end": 16
+    }
+  ],
+  "wednesday-1": [
+    {
+      "title": "MAT (c)",
+      "start": 11,
+      "end": 13
+    },
+    {
+      "title": "MC-TA (l)",
+      "start": 13,
+      "end": 16
+    },
+    {
+      "title": "MC (l)",
+      "start": 16,
+      "end": 19
+    }
+  ],
+  "thursday-1": [
+    {
+      "title": "ML (c)",
+      "start": 11,
+      "end": 13
+    },
+    {
+      "title": "MRCE (s)",
+      "start": 15,
+      "end": 17
+    },
+    {
+      "title": "MRCE (c)",
+      "start": 17,
+      "end": 19
+    }
+  ],
+  "friday-1": [],
+  "monday-2": [],
+  "tuesday-2": [
+    {
+      "title": "MC-TA (c)",
+      "start": 11,
+      "end": 13
+    },
+    {
+      "title": "MC (c)",
+      "start": 13,
+      "end": 16
+    }
+  ],
+  "wednesday-2": [
+    {
+      "title": "MAT (c)",
+      "start": 11,
+      "end": 13
+    }
+  ],
+  "thursday-2": [
+    {
+      "title": "ML (c)",
+      "start": 11,
+      "end": 13
+    },
+    {
+      "title": "MRCE (s)",
+      "start": 15,
+      "end": 17
+    },
+    {
+      "title": "MRCE (c)",
+      "start": 17,
+      "end": 19
+    }
+  ],
+  "friday-2": []
+}
